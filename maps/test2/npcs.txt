@@ -1,0 +1,9 @@
+
+
+name: psycho_ded2 {
+    template = psycho_ded
+    spawn(14, 6)
+    walk(0)
+    stand(up)
+    }
+}

@@ -1,0 +1,19 @@
+name: test  {
+    template = test  
+    spawn(6, 5)     
+    stand(right)
+    walk(8)
+
+    stand(down) 
+}
+
+name: niga  {
+    template = test
+    spawn(10, 5)       
+    stand(   right ) 
+    wait(4 sec)
+    stand(down)	  
+    walk(6)
+    wait(2 sec)
+    stand(left) 
+}
