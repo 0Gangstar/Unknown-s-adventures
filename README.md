@@ -16,3 +16,9 @@ Control:
 Цель демо версии найти цирк. 
 Если игр закрылась - это не ошибка в 90% случаях.
 В игре есть секреты и сундуки.
+
+
+музыка:
+Sergey Cheremisinov - Chronos
+шрифт:
+CodeMan38 - Press Start 2P Regular 
