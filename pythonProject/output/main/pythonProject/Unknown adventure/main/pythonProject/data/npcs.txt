@@ -1,0 +1,23 @@
+name: psycho ded {
+    template = psycho_ded
+    spawn(62, 63)
+    walk(3)
+    repeat {
+        stand(left)
+	wait(1)
+	stand(up)
+	wait(1)
+	stand(right)
+	wait(1)
+	stand(down)
+	wait(1)
+    }
+}
+
+
+name: psycho_ded2 {
+    template = psycho_ded
+    spawn(71, 52)
+    stand(up)
+    }
+}

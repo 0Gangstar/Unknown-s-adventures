@@ -1,0 +1,7 @@
+stand:
+    sprite_width: 80
+    sprite_height: 108
+walk:
+    file: walk.png
+    sprite_width: 88
+    sprite_height: 112
