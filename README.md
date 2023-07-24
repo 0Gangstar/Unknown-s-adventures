@@ -1,10 +1,5 @@
 # Unknown-s-adventures
-
-Modules:
-1. Numpy
-2. Pytmx
-3. moderngl
-4. pygame
+Чтобы начать играть, надо запусить main.exe
 
 Control:
 двигаться - wasd
@@ -16,6 +11,13 @@ Control:
 Цель демо версии найти цирк. 
 Если игр закрылась - это не ошибка в 90% случаях.
 В игре есть секреты и сундуки.
+
+
+Modules:
+1. Numpy
+2. Pytmx
+3. moderngl
+4. pygame
 
 
 музыка:
