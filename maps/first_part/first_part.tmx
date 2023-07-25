@@ -135,6 +135,11 @@
  </tileset>
  <tileset firstgid="159" name="Home Wall" tilewidth="400" tileheight="640" tilecount="1" columns="1">
   <image source="../../data/Home Wall.png" width="400" height="640"/>
+  <tile id="0">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="80.2235" y="318.961" width="318.961" height="320.894"/>
+   </objectgroup>
+  </tile>
  </tileset>
  <tileset firstgid="160" name="плитка " tilewidth="16" tileheight="16" spacing="1" tilecount="1" columns="1">
   <image source="../../data/плитка .png" width="16" height="16"/>

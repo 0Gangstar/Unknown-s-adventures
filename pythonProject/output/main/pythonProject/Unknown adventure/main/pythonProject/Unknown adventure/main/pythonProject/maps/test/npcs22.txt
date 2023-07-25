@@ -1,8 +1,0 @@
-name: niga  {
-    template = test  
-    spawn(6, 5)     
-    stand(right)
-    walk(8, 200)
-
-    stand(down) 
-}
