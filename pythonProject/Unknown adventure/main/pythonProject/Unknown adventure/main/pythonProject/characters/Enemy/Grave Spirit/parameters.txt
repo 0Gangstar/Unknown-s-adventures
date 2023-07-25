@@ -1,3 +1,0 @@
-vision = 6
-speed = 75
-type = ghost
